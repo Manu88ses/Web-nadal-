@@ -32,7 +32,8 @@ document.querySelector('#app').innerHTML = `
       <button class="dies" type="button">23</button>
       <button class="dies" type="button">24</button>
     </div>
-    
+      <img id=regal src="https://img.pikbest.com/png-images/20250518/white-gift-box-with-ribbon-on-blue-background_11718731.png!bw700">
+
   </div>
 `
 
