@@ -5,19 +5,34 @@ import { setupCounter } from './counter.js'
 
 document.querySelector('#app').innerHTML = `
   <div>
-    <a href="https://vite.dev" target="_blank">
-      <img src="${viteLogo}" class="logo" alt="Vite logo" />
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-      <img src="${javascriptLogo}" class="logo vanilla" alt="JavaScript logo" />
-    </a>
-    <h1>Hello Vite!</h1>
+    <h1>Calendari d'advent</h1>
     <div class="card">
-      <button id="counter" type="button"></button>
+      <button class="dies" type="button">1</button>
+      <button class="dies" type="button">2</button>
+      <button class="dies" type="button">3</button>
+      <button class="dies" type="button">4</button>
+      <button class="dies" type="button">5</button>
+      <button class="dies" type="button">6</button>
+      <button class="dies" type="button">7</button>
+      <button class="dies" type="button">8</button>
+      <button class="dies" type="button">9</button>
+      <button class="dies" type="button">10</button>
+      <button class="dies" type="button">11</button>
+      <button class="dies" type="button">12</button>
+      <button class="dies" type="button">13</button>
+      <button class="dies" type="button">14</button>
+      <button class="dies" type="button">15</button>
+      <button class="dies" type="button">16</button>
+      <button class="dies" type="button">17</button>
+      <button class="dies" type="button">18</button>
+      <button class="dies" type="button">19</button>
+      <button class="dies" type="button">20</button>
+      <button class="dies" type="button">21</button>
+      <button class="dies" type="button">22</button>
+      <button class="dies" type="button">23</button>
+      <button class="dies" type="button">24</button>
+
     </div>
-    <p class="read-the-docs">
-      Click on the Vite logo to learn more
-    </p>
   </div>
 `
 
