@@ -31,8 +31,8 @@ document.querySelector('#app').innerHTML = `
       <button class="dies" type="button">22</button>
       <button class="dies" type="button">23</button>
       <button class="dies" type="button">24</button>
-
     </div>
+    
   </div>
 `
 
